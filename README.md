@@ -1,4 +1,4 @@
-# Welcome to My IST 110 Digital Portfolio
+# Welcome to My IST 110 Learning Portfolio
 
 ## Introduction
 Hello! My name is **Sean Neuman**, and this repository is dedicated to showcasing the assignments, projects, and reflections I’ve completed during **IST 110**. Throughout this course, I explored foundational concepts in information science and technology, honed my analytical skills, and worked on collaborative projects that helped me grow academically and professionally.
