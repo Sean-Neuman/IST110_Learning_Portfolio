@@ -4,7 +4,8 @@
 Hello! My name is **Sean Neuman**, and this repository is dedicated to showcasing the assignments, projects, and reflections I’ve completed during **IST 110**. Throughout this course, I explored foundational concepts in information science and technology, honed my analytical skills, and worked on collaborative projects that helped me grow academically and professionally.
 
 ## About Me
-- **Major**: Computer Science  
+- **Major**: Computer Science
+- ""Graduation Date**: May 2025
 - **Interests**: Video games, web development, and movies  
 
 I’m passionate about understanding how technology shapes our world and finding innovative ways to solve real-life problems. When I’m not coding or studying, I love to dive into new video games, watch the latest films, and build cool websites.
