@@ -5,7 +5,7 @@ Hello! My name is **Sean Neuman**, and this repository is dedicated to showcasin
 
 ## About Me
 - **Major**: Computer Science
-- ""Graduation Date**: May 2025
+- **Graduation Date**: May 2025
 - **Interests**: Video games, web development, and movies  
 
 I’m passionate about understanding how technology shapes our world and finding innovative ways to solve real-life problems. When I’m not coding or studying, I love to dive into new video games, watch the latest films, and build cool websites.
