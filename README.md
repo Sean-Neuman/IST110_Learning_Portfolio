@@ -20,3 +20,9 @@ I’m passionate about understanding how technology shapes our world and finding
 1. [**Assignments Folder**](Group_Projects) – Contains written deliverables, code samples, or links to relevant resources.
 2. [**Discussions Folder**](Solo_Assignments) – Stores my original discussion posts, exploring a range of IST topics.
 3. **Reflections** – A dedicated space where I share lessons learned and my personal growth throughout the course.
+```
+📦  IST110_Learning_Portfolio 
+├─ Group_Projects
+├─ Solo_Assignments
+└─ KRITIK Assignments.pdf
+```
