@@ -17,9 +17,8 @@ I’m passionate about understanding how technology shapes our world and finding
 - **Kritik Submissions**: My “Create” assignments. 
 
 ## How to Navigate
-1. [**Assignments Folder**](Group_Projects) – Contains written deliverables, code samples, or links to relevant resources.
-2. [**Discussions Folder**](Solo_Assignments) – Stores my original discussion posts, exploring a range of IST topics.
-3. **Reflections** – A dedicated space where I share lessons learned and my personal growth throughout the course.
+1. [**Group Work Folder**](Group_Projects) – Contains group research, slides and infographic completed over the course, along with reflections on each.
+2. [**Solo Work Folder**](Solo_Assignments) – Stores my assignments from the solo portion of the class, exploring a range of IST topics and reflections on those assignments.
 ```
 📦  IST110_Learning_Portfolio 
 ├─ Group_Projects
